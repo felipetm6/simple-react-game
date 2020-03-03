@@ -38,6 +38,7 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.0.1",
+    "@types/webpack-env": "^1.15.1",
     "node-sass": "^4.13.1",
     "styled-components": "^5.0.1"
   }
